@@ -1,0 +1,35 @@
+body {
+  font-family: Tahoma, sans-serif;
+  background-image: url('http://node25.mc-node.net:26133/pcservice/bg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 100%;
+}
+
+#DayOfWeek {
+    position: absolute;
+    color: Black;
+    top: 100px;
+    right: 43.5%;
+    font-size: 300%;
+}
+
+#InfoBlock {
+    background-color: rgba(0, 0, 0, 0.6);
+    position: fixed;
+ 	top: 30px;
+  	right: 30px;
+    border-radius: 25px;
+    width: 300px;
+    text-align: center;
+    color: white;
+}
+
+.DarkBlock {
+    background-color: rgba(0, 0, 0, 0.75);
+    border-radius: 25px;
+    width: 250px;
+    margin-left: auto;
+ 	margin-right: auto;
+}
