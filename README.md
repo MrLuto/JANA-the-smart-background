@@ -8,7 +8,7 @@ This is as the title says just another smart background it shows you the current
 To deploy this project clone this project
 
 ```bash
-  git clone https://github.com/MrLuto/jasb-LGSN-The-smart-background.git
+  git clone https://github.com/MrLuto/JANA-the-smart-background.git
 ```
 
 and download [lively wallpaper](https://apps.microsoft.com/store/detail/lively-wallpaper/9NTM2QC6QWS7)
